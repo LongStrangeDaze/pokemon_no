@@ -1,0 +1,12 @@
+{
+    "number": "120",
+    "name": "STARYU",
+    "speed": 85,
+    "defense": 55,
+    "special_defense": 55,
+    "attack": 45,
+    "special_attack": 70,
+    "hp": 30,
+    "weight": 345,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/120.svg"
+}
